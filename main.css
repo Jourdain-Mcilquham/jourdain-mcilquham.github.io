@@ -1732,6 +1732,17 @@ table thead {
 	width: auto;
 }
 
+.portfolio-title {
+    display: flex;
+    justify-content: center;  /* Horizontally centers content */
+    align-items: center;      /* Vertically centers content */
+    height: 10vh;            /* Takes the full viewport height */
+}
+
+.portfolio-title h2 {
+    margin: 0; /* Removes any default margin */
+}
+
 /* Button */
 
 input[type="button"],
