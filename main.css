@@ -1736,7 +1736,7 @@ table thead {
     display: flex;
     justify-content: center;  /* Horizontally centers content */
     align-items: center;      /* Vertically centers content */
-    height: 10vh;            /* Takes the full viewport height */
+    height: 5vh;            /* Takes the full viewport height */
 }
 
 .portfolio-title h2 {
